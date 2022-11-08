@@ -1,0 +1,48 @@
+.bady{
+          background-color: #def3fd;
+          margin: 0;
+}
+
+
+#topbar{
+          background-color: #779ecb;
+          padding: 24px;
+          border-radius: 50px;
+
+}
+.menu-item{
+      text-align:center ;
+          font-size: 24px;
+          padding: 8px;
+          font-weight: 600;
+          margin: 10px 10px;
+          
+          
+}
+#list_heading{
+          font-size: 20px;
+          padding-left: 24px ;
+          background-color: yellowgreen;
+          border-radius: 40px;
+}
+.food_list_item{
+
+      font-size: 20px;
+text-transform: capitalize;
+          font-size: 30px;
+          text-decoration: none;
+}
+.food_img{
+     width: 400px; 
+      height: 400px;  
+      border-radius: 50px; 
+}
+.food_sec{
+          text-align: center;
+}
+.food_sec p{
+font-size: 50px;
+}
+#list_heading{
+      font-size: 25px;
+}
